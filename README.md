@@ -3,5 +3,5 @@
 ### Welcome 👋
 My name is 成成0v0, Welcome to my github!
 
-**blog:** [chengcheng0v0.cc](http://chengcheng0v0.cc)  
+**Web:** [chengcheng0v0.cc](http://chengcheng0v0.cc)  
 **BiliBili:** [成成0v0](https://space.bilibili.com/675279872)
