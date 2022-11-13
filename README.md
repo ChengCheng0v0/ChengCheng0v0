@@ -9,6 +9,3 @@ My name is 成成0v0, Welcome to my github!
 | Web | [chengcheng0v0.cc](http://chengcheng0v0.cc) |
 | Blog | A sad story... |
 | BiliBili | [成成0v0](https://space.bilibili.com/675279872) |
-
-### Images bed
-> [img.li23.cn](http://img.li23.cn)
