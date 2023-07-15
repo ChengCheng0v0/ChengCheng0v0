@@ -6,6 +6,6 @@ My name is 成成0v0, Welcome to my github!
 |  | QAQ |
 | ---- | ---- |
 | E-mail | suxinchengcheng@gmail.com |
-| Web | [chengcheng0v0.cc](http://chengcheng0v0.cc) |
+| Web | [c-ka.net](http://c-ka.net) |
 | Blog | A sad story... |
 | BiliBili | [成成0v0](https://space.bilibili.com/675279872) |
