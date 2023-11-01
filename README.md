@@ -2,10 +2,3 @@
 
 ### Welcome 👋
 My name is 成成0v0, Welcome to my github!
-
-|  | QAQ |
-| ---- | ---- |
-| E-mail | suxinchengcheng@gmail.com |
-| Web | [mikudayo.ink](http://mikudayo.ink) |
-| Blog | A sad story... |
-| BiliBili | [成成0v0](https://space.bilibili.com/675279872) |
