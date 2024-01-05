@@ -3,6 +3,6 @@
 &emsp;
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChengCheng0v0&theme=dracula&show_icons=true&locale=cn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 ## 外部链接
-* [mikudayo.ink](https://mikudayo.ink)
+* [hic.top](https://hic.top)
 * [space.bilibili.com/675279872](https://space.bilibili.com/675279872)
 * NS好友代码：忘了，正在吃灰懒得看，等哪天有空了补上
