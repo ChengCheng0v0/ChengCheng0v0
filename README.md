@@ -5,4 +5,3 @@
 ## 外部链接
 * [hic.top](https://hic.top)
 * [space.bilibili.com/675279872](https://space.bilibili.com/675279872)
-* NS好友代码：忘了，正在吃灰懒得看，等哪天有空了补上
