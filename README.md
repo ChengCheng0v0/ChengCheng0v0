@@ -12,8 +12,6 @@ I'm a student currently exploring **Java** and **Vue.js**. I have experience in 
 
 I've also worked on desktop applications using **Node.js** and **Electron**. Previously, I developed websites for small companies and individuals.
 
-Currently, I'm researching email-related technologies and plan to create a simple **email client** soon. Stay tuned for updates!
-
 ## Skills
 - **Front-end Development**: HTML, CSS, JavaScript, Vue.js
 - **Back-end Development**: Java, Spring
