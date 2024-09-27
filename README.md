@@ -28,3 +28,6 @@ Besides coding, I enjoy tinkering with hardware as a hobby, including experiment
 
 ## Contact
 Feel free to reach out to me at **chengcheng@miao.ms**. I prefer email over instant messaging and look forward to hearing from you!
+
+## Social Platforms
+I occasionally share my daily life on BiliBili! If you're interested, you can check out my BiliBili account: [成成0v0の个人空间](https://space.bilibili.com/675279872)!
