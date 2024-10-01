@@ -1,5 +1,7 @@
 <img src="https://s2.loli.net/2024/09/27/eyjpVi9ErP6L8ZO.png" />
 
+---
+
 **Hello, I'm Chengcheng! ヾ(≧▽≦\*)o**
 
 ## Statistical data
