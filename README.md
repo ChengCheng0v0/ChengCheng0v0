@@ -2,6 +2,16 @@
 
 ---
 
+## Statistical data
+[![](https://github-readme-stats.ccs.cool/api?username=ChengCheng0v0&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+&emsp;
+[![](https://github-readme-stats.ccs.cool/api/top-langs/?username=ChengCheng0v0&theme=dracula&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+
+**\*** The statistics contain data from private repositories.  
+**\*** Don't fully trust the commit counts on GitHub Stats! It also counts contributions to your own forked repositories...
+
+---
+
 ## About Me
 
 Hi there! I'm from Chengdu, Sichuan Province, China. I love programming and am currently learning Rust!  
