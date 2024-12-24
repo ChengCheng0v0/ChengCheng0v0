@@ -2,34 +2,35 @@
 
 ---
 
-**Hello, I'm Chengcheng! ヾ(≧▽≦\*)o**
-
-## Statistical data
-[![](https://github-readme-stats.ccs.cool/api?username=ChengCheng0v0&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-&emsp;
-[![](https://github-readme-stats.ccs.cool/api/top-langs/?username=ChengCheng0v0&theme=dracula&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
-
-**\*** The statistics contain data from private repositories.
-
 ## About Me
-I'm a student currently exploring **Java** and **Vue.js**. I have experience in front-end development and can work with the **Vue** framework, though I often prefer more lightweight frameworks or native technologies for simpler projects. On the back-end, I have a solid foundation in **Java** and use the **Spring** framework to develop web applications.
 
-I've also worked on desktop applications using **Node.js** and **Electron**. Previously, I developed websites for small companies and individuals.
+Hi there! I'm from Chengdu, Sichuan Province, China. I love programming and am currently learning Rust!  
+I have some basic front-end development skills and enjoy creating small websites (like [this](https://hic.top) one).  
+I used to write Java, but now I've mostly forgotten it~
 
-## Skills
-- **Front-end Development**: HTML, CSS, JavaScript, Vue.js
-- **Back-end Development**: Java, Spring
-- **Desktop Applications**: Node.js, Electron
-- **DevOps & System Administration**: 
-  - **Linux** (advanced user)
+In addition to programming, I love tinkering with hardware, including **NAS** and **soft router** setups.  
+I'm a passionate supporter of free software and a loyal fan of **Linux**, my favorite operating system.  
+My current distribution of choice is **Arch Linux**.
+
+When I’m not coding, I’m probably listening to music! I have a diverse taste, but electronic music is my favorite.  
+My go-to music app is **Spotify**, and my headphones are **AKG K240S**.
+
+## My Skills
+
+- **Front-end Development**: HTML, CSS, JavaScript, Vue.js (just a bit)
+- **Back-end Development**: Rust, Node.js
+- **CLI/TUI Programs**: Rust
+- **GUI Programs**: Node.js, Electron (transitioning to Tauri once I master Rust!)
+- **DevOps and System Management**:
+  - **Linux** (daily user)
   - **Networking** (basic knowledge)
-  - **Technologies**: Docker, ESXi, Nginx, MySQL, etc.
+  - **Technologies**: Docker, Systemd, Caddy, MySQL, etc.
 
-## Interests
-Besides coding, I enjoy tinkering with hardware as a hobby, including experimenting with soft routers and NAS setups. I love free software and am a big fan of **Linux**, which is my preferred operating system.
+## Want to Know More?
 
-## Contact
-Feel free to reach out to me at **chengcheng@miao.ms**. I prefer email over instant messaging and look forward to hearing from you!
+If you'd like to learn more about me, feel free to visit my personal website at [hic.top](https://hic.top)!  
+(Note: The content is in Chinese only~)
 
-## Social Platforms
-I occasionally share my daily life on BiliBili! If you're interested, you can check out my BiliBili account: [成成0v0の个人空间](https://space.bilibili.com/675279872)!
+## Contact Me
+
+Feel free to reach out via **<chengcheng@miao.ms>**. I prefer email and look forward to connecting with you!
