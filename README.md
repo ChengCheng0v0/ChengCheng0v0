@@ -13,13 +13,13 @@
 
 ## About Me
 
-Hi there! I'm from Chengdu, Sichuan Province, China. I love programming 和 am currently learning Rust!  
-I have some basic front-end development skills 和 enjoy creating small websites (like [this](https://hic.top) one).  
+Hi there! I'm from Chengdu, Sichuan Province, China. I love programming and am currently learning Rust!  
+I have some basic front-end development skills and enjoy creating small websites (like [this](https://hic.top) one).  
 I used to write Java, but now I've mostly forgotten it~
 
 In addition to programming, I love tinkering with hardware, including **NAS** and **soft router** setups.  
 I'm a passionate supporter of free software and a loyal fan of **Linux**, my favorite operating system.  
-My current distribution of choice is **Arch Linux**.
+My current distribution of choice is **NixOS**.
 
 ## My Skills
 
