@@ -13,7 +13,7 @@
 
 ## About Me
 
-Hi there! I'm from Chengdu, Sichuan Province, China. I love programming and am currently learning Rust!  
+Hi there! I'm from Chengdu, Sichuan, China. I love programming and am currently learning Rust!  
 I have some basic front-end development skills and enjoy creating small websites (like [this](https://hic.top) one).  
 I used to write Java, but now I've mostly forgotten it~
 
