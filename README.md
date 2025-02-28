@@ -35,7 +35,7 @@ My current distribution of choice is **NixOS**.
 ## Want to Know More?
 
 If you'd like to learn more about me, feel free to visit my personal website at [hic.top](https://hic.top)!  
-(Note: The content is in Chinese only~)
+(Note: The content is in Chinese only)
 
 ## Contact Me
 
