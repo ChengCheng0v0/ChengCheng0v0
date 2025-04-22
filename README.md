@@ -17,7 +17,7 @@ Check out my website: [hic.top](https://hic.top)!
 
 ## What's Up 
 
-I'm currently working on my new personal website system, and have a few other things I need to take care of (both other projects and life-wise).
+I'm currently working on my new personal website system, and have a few other things I need to take care of (both other projects and life-wise).  
 So I probably won't be contributing much to open source projects these days, but I'll be actively working on all the Issues and PRs that come my way!
 
 ## Contact Me
