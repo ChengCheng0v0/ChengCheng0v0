@@ -13,29 +13,12 @@
 
 ## About Me
 
-Hi there! I'm from Chengdu, Sichuan, China. I love programming and am currently learning Rust!  
-I have some basic front-end development skills and enjoy creating small websites (like [this](https://hic.top) one).  
-I used to write Java, but now I've mostly forgotten it~
+Check out my website: [hic.top](https://hic.top)!
 
-In addition to programming, I love tinkering with hardware, including **NAS** and **soft router** setups.  
-I'm a passionate supporter of free software and a loyal fan of **Linux**, my favorite operating system.  
-My current distribution of choice is **NixOS**.
+## What's Up 
 
-## My Skills
-
-- **Front-end Development**: HTML, CSS, JavaScript, Vue.js (just a bit)
-- **Back-end Development**: Rust, Node.js
-- **CLI/TUI Programs**: Rust
-- **GUI Programs**: Node.js, Electron (transitioning to Tauri once I master Rust!)
-- **DevOps and System Management**:
-  - **Linux** (daily user)
-  - **Networking** (basic knowledge)
-  - **Technologies**: Docker, Systemd, Caddy, MySQL, etc.
-
-## Want to Know More?
-
-If you'd like to learn more about me, feel free to visit my personal website at [hic.top](https://hic.top)!  
-(Note: The content is in Chinese only)
+I'm currently working on my new personal website system, and have a few other things I need to take care of (both other projects and life-wise).
+So I probably won't be contributing much to open source projects these days, but I'll be actively working on all the Issues and PRs that come my way!
 
 ## Contact Me
 
